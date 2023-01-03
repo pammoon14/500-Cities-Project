@@ -7,3 +7,5 @@ This project shows state average responses to 29 health measures, categorized in
 PLACES: Local Data for Better Health, County Data 2022 release 
 https://www.cdc.gov/places/
 
+## Result
+![](image/project500_dashboard_pm_pdf.pdf)
