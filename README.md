@@ -8,4 +8,4 @@ PLACES: Local Data for Better Health, County Data 2022 release
 https://www.cdc.gov/places/
 
 ## Result
-![](image/project500_dashboard_pm_pdf.pdf)
+![](image/Screenshot_500_Cities_Projcet_Dashboard.png)
