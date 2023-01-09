@@ -15,5 +15,5 @@ This project created an interactive Excel dashboard to visualize and analyze key
 PLACES: Local Data for Better Health, [County Data 2022 release](https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb)
 
 ## Results 
-![](https://github.com/pammoon14/500-Cities-Project/blob/992b2bebe80cc472cc81b34808e05361c96adc77/image/Screenshot_500_Cities_Projcet_Dashboard.png)
+![](https://github.com/pammoon14/500-Cities-Project/blob/main/image/Screenshot_500_Cities_Project_Dashboard.png)
 
